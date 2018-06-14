@@ -1,0 +1,25 @@
+.center-img{
+    display: block;
+    margin: 0 auto;
+  }
+
+.col-10 {
+  background-color: white;
+  }
+
+.col-6 {
+  background-color: white;
+  }
+
+
+.sign {
+  float: left;/* Выравнивание по правому краю */
+  border: 0px solid #333; /* Параметры рамки */
+  padding: 8px; /* Поля внутри блока */
+  margin: 10px 10px 10px 10px; /* Отступы вокруг */
+  background: white; /* Цвет фона */ 
+}
+.sign figcaption {
+  margin: 5 auto 5px; /* Отступы вокруг абзаца */
+}
+
